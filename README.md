@@ -106,6 +106,12 @@ $
 
 While on the `first-feature` branch, create a file named `hello.txt` that contains the following text:
 
+*Use the following syntax to create a file:*
+```console
+touch hello.txt
+```
+
+
 ```text
 Hello! This is my first pull request.
 ```
